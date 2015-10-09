@@ -1,0 +1,110 @@
+.hpom-title {
+    color: #333;
+    float: left;
+    font-family: 'Futura Today Bold',arial,sans-serif;
+    font-size: 15px;
+    font-weight: 400;
+    margin: 0 10px 0 0;
+    text-transform: uppercase;
+    text-shadow: 0 1px 0 #fff;
+}
+
+.hpom-subheader {
+    color: #666;
+    font-size: 12px;
+    line-height: 18px;
+}
+
+.hpom-wrap {
+	border-bottom: 1px solid rgba(0,0,0,.15);
+	border-right: 1px solid rgba(0,0,0,.15);
+}
+
+.hpom-items-wrap {
+    display: table;
+    margin: -5px 0 0;
+    padding: 0;
+    position: relative;
+}
+.hpom-item {
+    display: table-cell;
+    padding: 0;
+    vertical-align: top;
+}
+.hpom-link {
+    color: #333;
+    display: block;
+    margin: 0 20px;
+    position: relative;
+    -webkit-transition: background-color,border-color .15s,.15s;
+    -moz-transition: background-color,border-color .15s,.15s;
+    transition: background-color,border-color .15s,.15s;
+    width: 200px;
+    word-wrap: break-word;
+}
+.hpom-img {
+    border: 1px solid rgba(0, 0, 0, 0);
+    border-bottom-color: #bebebe;
+    border-bottom-color: rgba(190,190,190,.6);
+    box-shadow: 0 2px 2px 0 rgba(190,190,190,.6);
+    float: left;
+    margin: 0 15px 0 0;
+    margin-bottom: 5px;
+    -webkit-transition: border-color .15s;
+    -moz-transition: border-color .15s;
+    transition: border-color .15s;
+}
+
+.hpom-h3 {
+    font: 400 13px Helvetica,Arial,sans-serif;
+    line-height: 18px;
+    text-overflow: ellipsis;
+}
+
+.hpom-header {
+    box-sizing: border-box;
+    display: inline-block;
+    padding: 4px 20px 0;
+    position: relative;
+    width: 100%;
+}
+
+.hpom-form {
+	padding: 15px 0;
+}
+.hpom {
+    background: #efefef;
+    border-color: #bdbdbd;
+    color: #666;
+}
+.hpom-btn {
+	float: right;
+	margin-right: 20px;
+}
+
+.hpom-input {
+    background: url('../images/books-sprite.png') -92px 1px no-repeat;
+    display: inline;
+	height: 32px;
+    margin: 0 10px 0 20px;
+    padding: 3px 0 0 30px;
+    width: 595px;
+}
+.hpom-form-title {
+	color: #333;
+	 font: bold 12px Helvetica,Arial,sans-serif;
+	 margin: 0 0 8px 20px;
+	 padding: 0;
+	 text-transform: uppercase;
+}
+.hpom-bottom-link {
+	padding-bottom: 20px;
+	overflow: hidden;
+}
+.hpom-bottom-right-link {
+    float: right;
+    margin-right: 20px;
+    color: #0AF;
+    font: 12px/14px Helvetica, sans-serif;
+  
+}
